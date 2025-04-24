@@ -1,1 +1,0 @@
-# Submission-Proyek-Klasifikasi-Gambar-Vegetable
